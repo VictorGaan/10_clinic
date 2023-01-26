@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "otXWiuFzhdDJ4RHlorBVAy9t3NMpuPmpY21z1dtLLCN9nBrSm89vi7EvB1W9MYVppMqUIBnu5XBkSFfBH6bIrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Papa\\Desktop\\TRPO\\TRPO\\TRPO\\src\\TRPO.Core\\TRPO.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Papa\\.nuget\\packages\\ardalis.guardclauses\\3.2.0\\ardalis.guardclauses.3.2.0.nupkg.sha512",
+    "C:\\Users\\Papa\\.nuget\\packages\\ardalis.result\\3.1.1\\ardalis.result.3.1.1.nupkg.sha512",
+    "C:\\Users\\Papa\\.nuget\\packages\\ardalis.specification\\5.1.0\\ardalis.specification.5.1.0.nupkg.sha512",
+    "C:\\Users\\Papa\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\Papa\\.nuget\\packages\\jetbrains.annotations\\2021.1.0\\jetbrains.annotations.2021.1.0.nupkg.sha512",
+    "C:\\Users\\Papa\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Papa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
